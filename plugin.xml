@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+e<?xml version="1.0" encoding="UTF-8"?>
 
-<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="me.tonny.cordova.plugins.multidex" version="0.1.0">
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="com.netcore.multidex" version="0.1.0">
   <name>Cordova Multi Dex</name>
-  <description>This do and only do add the Multidex inside the Android manifest</description>
-
-  <license>MIT</license>
-
+  <description>This is used for GCM SDK </description>  
   <engines>
     <engine name="cordova" version=">=3.5.0" />
   </engines>
