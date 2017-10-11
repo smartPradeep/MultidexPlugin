@@ -1,0 +1,20 @@
+{
+    "name": "MultidexPlugin",
+    "version": "1.0.0",
+    "description": "multidex pligin for cordova application",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/smartPradeep/MultidexPlugin.git"
+    },
+    "keywords": [],
+    "author": "Pradeep gupta",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/smartPradeep/MultidexPlugin/issues"
+    },
+    "homepage": "https://github.com/smartPradeep/MultidexPlugin.git#readme"
+}
